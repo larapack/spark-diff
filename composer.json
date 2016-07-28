@@ -1,0 +1,17 @@
+{
+    "name": "larapack/spark-diff",
+    "keywords": [
+        "laravel"
+    ],
+    "license": "MIT",
+    "type": "package",
+    "require": {
+        "php": ">=5.5.9",
+        "laravel/framework": "5.2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "libs/larapack/spark-diff"
+        ]
+    }
+}
